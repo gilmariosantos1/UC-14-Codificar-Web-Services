@@ -1,0 +1,1000 @@
+  135  dir
+  136  ls
+  137  clear
+  138  ls
+  139  cd src
+  140  ls
+  141  node server.js
+  142  shutdown -h now
+  143  npm install
+  144  node server.js
+  145  shutdown -h now
+  146  ls
+  147  cd
+  148  cd Downloads/
+  149  ls
+  150  cd ReservaTech-branch_antonio-04/
+  151  ls
+  152  cd Codigo
+  153  ls
+  154  clear
+  155  cd api
+  156  ls
+  157  node server.js
+  158  shutdown -h now
+  159  npm install
+  160  npm run dev
+  161  cd api
+  162  ls
+  163  npm install
+  164  npm audtit fix
+  165  npm audit --fix
+  166  npm audit fix
+  167  npm run test
+  168  code .
+  169  ls
+  170  cd api/
+  171  ls
+  172  npm install
+  173  npm audit --fix
+  174  npm audit fix
+  175  clear
+  176  npm audit fix
+  177  sudo apt install sqlite
+  178  clear
+  179  sudo apt install sqlite3
+  180  shutdown -h now
+  181  npm install
+  182  npm audit --force
+  183  npm run dev
+  184  sudo mysql -e "ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'Current-Root-Password'; FLUSH PRIVILEGES;
+  185  ;
+  186  exit
+  187  sudo apt remove mysql-server*
+  188  sudo mysql
+  189  clear
+  190  sudo apt update
+  191  sudo apt autoremove
+  192  ls
+  193  sudo apt install mysql-server -y
+  194  sudo systemctl status mysql
+  195  sudo mysql_secure_installation
+  196  ls
+  197  cd ..
+  198  ls
+  199  cd ..
+  200  ls
+  201  cd frontend/
+  202  ls
+  203  cd src
+  204  npm install
+  205  npm audit
+  206  npm audit fix --force
+  207  npm run dev
+  208  ls
+  209  cd backend/
+  210  ls
+  211  cd src/
+  212  npm install
+  213  npm audit --fix
+  214  npm audit fix
+  215  clear
+  216  ls
+  217  node server.js
+  218  ls
+  219  gedit server.js 
+  220  nano server.js 
+  221  ls
+  222  nano .env
+  223  ls
+  224  nano .env
+  225  nano server.js 
+  226  ls
+  227  node server.js
+  228  ls
+  229  chmod +x 777 server.js 
+  230  chmod +x R 777 server.js 
+  231  chmod +x server.js 
+  232  node server.js
+  233  ls
+  234  nano app.js 
+  235  clear
+  236  node server.js
+  237  grant all privileges on *.* to root@localhost
+  238  mysql grant all privileges on *.* to root@localhost
+  239  clear
+  240  ls
+  241  mysql
+  242  sudo mysql
+  243  node server.js
+  244  sudo mysql
+  245  node server.js
+  246  sudo mysql -e "ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'Current-Root-Password'; FLUSH PRIVILEGES;"
+  247  sudo mysql
+  248  node server.js
+  249  clear
+  250  ls
+  251  history
+  252  sudo apt install mysql-server -y
+  253  mysql --version
+  254  sudo systemctl enable mysql
+  255  sudo systemctl start mysql
+  256  ls
+  257  node server.js
+  258  cd ..
+  259  ls
+  260  cd ..
+  261  ls
+  262  code .
+  263  mysql
+  264  sudo mysql
+  265  code .
+  266  sudo systemctl stop mysql && sleep 2 && sudo mysqld --skip-grant-tables --user=mysql &
+  267  npm run dev
+  268  ls
+  269  cd ..
+  270  ls
+  271  cd frontend/
+  272  cd backend/
+  273  ls
+  274  cd src
+  275  cd ..
+  276  npm start
+  277  ls
+  278  cd src
+  279  npm start
+  280  cd ..
+  281  npm install
+  282  npm audit fix --force
+  283  npm start
+  284  shutdown -h now
+  285  ls
+  286  mysql
+  287  mysql -u root -p
+  288  mysql
+  289  mysql -u root -p
+  290  mysql -u mysql -p mysql
+  291  mysql -u mysql -p
+  292  mysql -u mysql -p
+  293  mysql
+  294  sudo su
+  295  mysql -u root -p
+  296  SELECT user, host, authentication_string, plugin FROM mysql.user WHERE user='root';
+  297  sudo mysql
+  298  sudo mysql -u root
+  299  sudo mysql -u root -p
+  300  sudo mysql -u root -p
+  301  sudo mysql -u root -p
+  302  sudo snap install mysql-server
+  303  sudo snap install mysql-server --channel=8.0/stable
+  304  sudo snap start mysql-server
+  305  sudo snap st mysql-server root-password='Qwe@2203
+  306  ;
+  307  ;
+  308  sudo snap get mysql-server
+  309  sudo snap get mysql-server status
+  310  systemctl mysql 
+  311  systemctl mysql 
+  312  ls
+  313  node index.js
+  314  node index.js
+  315  node index.js
+  316  node index.js
+  317  npm install
+  318  clear
+  319  ls
+  320  cd backend/
+  321  ls
+  322  node index.js
+  323  ls
+  324  cd. .
+  325  ls
+  326  cd ..
+  327  ls
+  328  clear
+  329  ls
+  330  cd backend/
+  331  ls
+  332  node index.js
+  333  shutdown -h now
+  334  sudo mysql -u root -p
+  335  clear
+  336  sudo -i
+  337  mysql -u root -p
+  338  mysql -u reserva -p
+  339  ls
+  340  cd ..
+  341  ls
+  342  cd ReservaTech-main/
+  343  ls
+  344  clear
+  345  cd Codigo/
+  346  los
+  347  ls
+  348  cd frontend/
+  349  ls
+  350  npm run dev
+  351  ls
+  352  cd ..
+  353  ls
+  354  cd ..
+  355  ls
+  356  cd frontend/
+  357  ls
+  358  nano script.js 
+  359  npm run dev
+  360  ipconfig
+  361  sifconfig
+  362  ip -a
+  363  sudo ip -a
+  364  clear
+  365  iptables
+  366  ifconfig
+  367  sudo apt install net-tools
+  368  ifconfig
+  369  clear
+  370  histoy
+  371  history
+  372  mysql -u reserva -p
+  373  ls
+  374  cd bac
+  375  ls
+  376  cd backend/
+  377  ls
+  378  clear
+  379  ls
+  380  start index.js
+  381  clear
+  382  npm start
+  383  mysql -u reserva -p
+  384  mysql
+  385  mysql -u root -p
+  386  sudo su
+  387  mysql -u arboriza@localhost -p
+  388  CLEAR
+  389  clear
+  390  mysql -u arboriza@localhost -p
+  391  mysql
+  392  sudo su
+  393  git clone https://github.com/gilmariosantos1/arborizacaointeligente
+  394  ls
+  395  cd arborizacaointeligente/
+  396  ls
+  397  clear
+  398  cd Codigo/
+  399  ls
+  400  cd backend/
+  401  ls
+  402  npm start
+  403  clear
+  404  cd ..
+  405  ls
+  406  code .
+  407  ls
+  408  cd back
+  409  cd backend/
+  410  clear
+  411  ls
+  412  cd src/
+  413  npm start
+  414  clear
+  415  ls
+  416  cd ..
+  417  start index.js 
+  418  npm start index.js 
+  419  npm run dev
+  420  clear
+  421  ls
+  422  cd src
+  423  ls
+  424  npm install
+  425  npm start
+  426  npm run dev
+  427  ls
+  428  cd ..
+  429  ls
+  430  cd ..
+  431  ls
+  432  cd frontend/
+  433  clear
+  434  ls
+  435  npm install
+  436  npm run dev
+  437  ls
+  438  cd ..
+  439  ls
+  440  cd back
+  441  cd backend/
+  442  ls
+  443  nano index.js
+  444  ls
+  445  cd src/
+  446  ls
+  447  clear
+  448  ls
+  449  cd models/
+  450  ls
+  451  npm run userModel.js 
+  452  npm run
+  453  npm run userModel.js 
+  454  clear
+  455  ls
+  456  mysql -u arboriza@localhost -p
+  457  history
+  458  mysql -u arboriza -p
+  459  ngrok http 3000
+  460  git clone https://github.com/gilmariosantos1/arborizacaointeligente
+  461  clear
+  462  ls
+  463  cd arborizacaointeligente/
+  464  ls
+  465  cd Codigo/
+  466  ls
+  467  cd backend/
+  468  ls
+  469  npm install
+  470  ls
+  471  npm run
+  472  npm run dev
+  473  ls
+  474  cd ..
+  475  ls
+  476  code .
+  477  ls
+  478  cd frontend/
+  479  ls
+  480  npm install
+  481  npm audit fix
+  482  clear
+  483  nom run dev
+  484  npm run dev
+  485  ls
+  486  npm start
+  487  cd sr
+  488  cd src
+  489  ls
+  490  npm start
+  491  cd ..
+  492  node index.js
+  493  cd src/
+  494  ls
+  495  node server.js
+  496  mysql -u larcerto -p'2203@Qwe' -h localhost -e "SELECT 1;"
+  497  mysql -u larcerto -p'2203@Qwe' -h localhost -e "SELECT 1;"
+  498  sudo mysql -u larcerto -p'2203@Qwe' -h localhost -e "SELECT 1;"
+  499  sudo mysql -u larcert -p'2203@Qwe' -h localhost -e "SELECT 1;"
+  500  mysql -u larcerto2 -p'2203@Qwe' -h localhost -e "SELECT 1;"
+  501  mysql -u larcerto2 -p'2203@Qwe' -h localhost -e "SELECT 1;"
+  502  sudo mysql -e "SELECT User, Host FROM mysql.user WHERE User='larcerto2';"
+  503  mysql -u root -p
+  504  mysql -u root -p
+  505  mysql -u root -p
+  506  mysql -u larcerto2 -p
+  507  mysql -u root -p
+  508  sudo mysql
+  509  mysql -u larcerto -p'2203@Qwe' -h localhost -e "SELECT 1;"
+  510  sudo mysql
+  511  sudo su
+  512  history
+  513  sudo mysql
+  514  sudo apt update
+  515  sudo apt modernize-sources
+  516  clear
+  517  sudo apt update
+  518  sudo apt upgrade
+  519  sudo su
+  520  history
+  521  sudo apt install mysql-server -y
+  522  sudo apt autoremove
+  523  mysql -u root -p
+  524  mysql -u arboriza -p
+  525  clear
+  526  sudo systemctl status mysql
+  527  sudo systemctl start mysql
+  528  sudo su
+  529  mysql -u larcerto -p
+  530  sudo su
+  531  cd ..
+  532  ls
+  533  code .
+  534  ls
+  535  cd api
+  536  ls
+  537  clear
+  538  ls
+  539  npm run
+  540  npm start
+  541  mysql -u larcerto -p
+  542  sudo su
+  543  mysql -u arborize -p
+  544  npm start
+  545  sudo apt install
+  546  npm install
+  547  ls
+  548  clear
+  549  ls
+  550  cd w
+  551  cd web/
+  552  npm install
+  553  npm install --force
+  554  npm audit fix
+  555  clear
+  556  npm audit fix --force
+  557  npm run dev
+  558  clear
+  559  node server.js
+  560  clear
+  561  node server.js
+  562  mysql -u larcerto -p'2203@Qwe' -h localhost -e "SELECT 1;
+  563  "
+  564  mysql -u larcerto -p'2203@Qwe' -h localhost -e "SELECT 1;"
+  565  node server.js
+  566  cd ..
+  567  ls
+  568  cd web
+  569  ls
+  570  cd src/
+  571  ls
+  572  clear
+  573  npm run dev
+  574  cd ..
+  575  clear
+  576  ls
+  577  cd ..
+  578  code .
+  579  ls
+  580  npm start
+  581  clear
+  582  cd ..
+  583  c d..
+  584  ls
+  585  cd ..
+  586  ls
+  587  claer
+  588  clearn
+  589  clear
+  590  git clone https://github.com/gilmariosantos1/larcerto
+  591  ls
+  592  cd larcerto/
+  593  ls
+  594  cd Codigo/
+  595  las
+  596  ls
+  597  mysql --version
+  598  mysql -u root -p -e "SELECT User, Host FROM mysql.user WHERE User='larcerto';"
+  599  mysql -u larcerto -p
+  600  mysql -u larcerto -p
+  601  cd ..
+  602  ls
+  603  code .
+  604  mysql
+  605  sudo mysql
+  606  ls
+  607  clear
+  608  ls
+  609  cd backend
+  610  ls
+  611  mysql -u larcerto -p
+  612  cd ..
+  613  ls
+  614  cd arborizacaointeligente/
+  615  clear
+  616  ls
+  617  cd Codigo/
+  618  ls
+  619  code .
+  620  cd Codigo/
+  621  ls
+  622  cd fron
+  623  cd frontend/
+  624  ls
+  625  npm install
+  626  npm audit fix
+  627  clear
+  628  npm run dev
+  629  cd backend/
+  630  ls
+  631  npm install
+  632  clear
+  633  npm start
+  634  [A
+  635  npm start
+  636  npm install  jwt
+  637  clear
+  638  sudo mysql -u root -p
+  639  mysql -u larcerto -p
+  640  npm start
+  641  code .
+  642  clear
+  643  npm install
+  644  npm run dev
+  645  ls
+  646  cd ..
+  647  ls
+  648  cd BackEnd/
+  649  ls
+  650  cd database/
+  651  ls
+  652  mysql -u sabor_senac -p sabor_senac < schema.sql
+  653  cd ..
+  654  ls
+  655  npm install knex mysql2 bcrypt
+  656  npm audit fix --force
+  657  npm audit
+  658  npm knex init
+  659  npx knex init
+  660  ls
+  661  gedit knexfile.js 
+  662  nano knexfile.js 
+  663  ls
+  664  npx knex init
+  665  ls
+  666  cd ..
+  667  ls
+  668  cd BackEnd/
+  669  ls
+  670  knex migrate:latest
+  671  knex
+  672  knex init
+  673  npx knex init
+  674  npx knex migrate:latest
+  675  ls
+  676  node knexfile.js
+  677  npx knex migrate:latest
+  678  npx knex migrate:latest --knexfile knexfile.cjs
+  679  node index.js
+  680  start index.js 
+  681  npm start index.js 
+  682  npm run
+  683  clear
+  684  ls
+  685  npx knex migrate:latest --knexfile knexfile.cjs
+  686  sudo sy
+  687  sudo su
+  688  clear
+  689  history
+  690  cd /home
+  691  ls
+  692  cd aula-senac/
+  693  ls
+  694  cd Documentos/
+  695  ls
+  696  rm *
+  697  rm rf *
+  698  ls
+  699  rm -rf arborizacaointeligente/ larcerto larcerto_old/
+  700  ls
+  701  history > scripts.txt
+  702  sudo mysql -u root -p
+  703  mysql -u sabor_senac -p
+  704  ls
+  705  mysql -u sabor_senac -p
+  706  cd ..
+  707  ls
+  708  cd BackEnd/
+  709  ls
+  710  cd src/
+  711  ls
+  712  node server.js
+  713  cd ..
+  714  npm install sequelize
+  715  npm fix --force
+  716  npm audit fix --force
+  717  clear
+  718  ls
+  719  rm teste.txt 
+  720  l
+  721  la
+  722  clear
+  723  ls
+  724  code .
+  725  ls
+  726  cd FrontEnd/
+  727  ls
+  728  npm install
+  729  npm audit fix
+  730  clear
+  731  npm install
+  732  npm run dev
+  733  ls
+  734  cd Codigos/
+  735  ls
+  736  cd FrontEnd/
+  737  ls
+  738  npm install
+  739  npm run dev
+  740  mysql -u sabor_senac -p sabor_senac < /home/aula-senac/Documentos/GitHub/saborSenac/Codigos/BackEnd/database/populate.sql
+  741  mysql -u sabor_senac -p
+  742  mysqldump -u sabor_senac -p --no-data sabor_senac > /home/aula-senac/Documentos/GitHub/saborSenac/Codigos/BackEnd/database/dump_schema.sql
+  743  mysqldump -u sabor_senac -p --no-data sabor_senac < /home/aula-senac/Documentos/GitHub/saborSenac/Codigos/BackEnd/database/dump_schema.sql
+  744  mysql -u sabor_senac -p sabor_senac < /home/aula-senac/Documentos/GitHub/saborSenac/Codigos/BackEnd/database/dump_schema.sql
+  745  mysql -u sabor_senac -p
+  746  mysql -u sabor_senac -p
+  747  ssh-keygen -t ed25519 -C "gilmariosantos1@gmail.com"
+  748  ls
+  749  nano sabor_senac
+  750  nano sabor_senac.pub 
+  751  clear
+  752  gedit sabor_senac.pub
+  753  nano sabor_senac.pub
+  754  ls
+  755  cd Codigos/
+  756  ls
+  757  ls
+  758  cd Bibliotecas/
+  759  ls
+  760  ionic start aulaButton blank --type=react
+  761  ls
+  762  cd aulaButton/
+  763  ls
+  764  ionic serve
+  765  cd ..
+  766  cd .
+  767  cd ..
+  768  cd /home
+  769  ls
+  770  cd aula-senac/
+  771  ls
+  772  cd Documentos/
+  773  ls
+  774  clear
+  775  npm install -g @ionic/cli
+  776  sudo npm install -g @ionic/cli
+  777  npm fund
+  778  ionic --version
+  779  ionic start appInicial black --type=react
+  780  ionic start appInicial blank --type=react
+  781  cd appInicial/
+  782  ls
+  783  ionic server
+  784  ionic serve
+  785  shutdown -h now
+  786  code appInicial/
+  787  cd ..
+  788  lls
+  789  cd l
+  790  ls
+  791  cd ..
+  792  ls
+  793  cd Cards/
+  794  ls
+  795  ionic start aulaCards blank --type=react
+  796  ls
+  797  cd aulaCards/
+  798  ls
+  799  ionic serve
+  800  cd ..
+  801  ls
+  802  rm -rf saborSenac/
+  803  cd UC-13---Codificar-para-Mobile/
+  804  ls
+  805  cd Codigos/
+  806  ls
+  807  cd Cards/
+  808  ls
+  809  cd aulaCards/
+  810  ls
+  811  ionic serve
+  812  cs ..
+  813  cd ..
+  814  ls
+  815  ionic start tarefasAll blank --type=react
+  816  ls
+  817  cd tarefasAll/
+  818  ls
+  819  ionic start
+  820  ls
+  821  ionic serve
+  822  yes
+  823  clear
+  824  ls
+  825  ionic serve
+  826  ls
+  827  cd src/
+  828  ionic serve
+  829  cd ..
+  830  npm --version
+  831  nano  /home/aula-senac/.npm/_logs/2026-05-18T23_50_08_721Z-debug-0.log
+  832  ls
+  833  ionic serve
+  834  ionic serve3
+  835  ionic serve
+  836  i
+  837  ionic serve
+  838  sudo apt upgrade
+  839  ls
+  840  cd Codigos/
+  841  ls
+  842  ionic start controleProduto blank --type=react
+  843  npm i
+  844  cd controleProduto/
+  845  ls
+  846  ionic start
+  847  ls
+  848  ionic start
+  849  ionic serve
+  850  npm i -D -E vite
+  851  npm install
+  852  ionic serve
+  853  sudo apt update
+  854  sudo apt upgrade
+  855  sudo apt update
+  856  sudo apt upgrade
+  857  fdisk -a
+  858  fdisk
+  859  fdisk -l
+  860  sudo fdisk -l
+  861  shudown -h now
+  862  shutdown -h now
+  863  sudo apt install gparted
+  864  ionic start controleProduto blank --type=react
+  865  cd Codigos/
+  866  ionic start controleProduto blank --type=react
+  867  ionic serve
+  868  ls
+  869  cd controleProduto/
+  870  ionic serve
+  871  clear
+  872  ls
+  873  ionic serve
+  874  npm run lint
+  875  ionic serve
+  876  npm run dev
+  877  npm run dev
+  878  ls
+  879  cd Codigos/
+  880  ls
+  881  controleProduto/
+  882  ls
+  883  clear
+  884  ls
+  885  cd controleProduto/
+  886  ls
+  887  ionic serve
+  888  npm install
+  889  ionic serve
+  890  LS
+  891  ls
+  892  cd Codigos/
+  893  ls
+  894  npm install fs
+  895  clear
+  896  ls
+  897  node server.js
+  898  ls
+  899  cd Codigos/
+  900  ls
+  901  cd controleProduto/
+  902  ls
+  903  cd ..
+  904  ls
+  905  cd controleProduto/
+  906  ls
+  907  clerar
+  908  cd src/
+  909  ls
+  910  cd service/
+  911  ls
+  912  serve 
+  913  ls
+  914  cd ..
+  915  ls
+  916  cd ..
+  917  cd backend/
+  918  ls
+  919  node server.js
+  920  nodejs server.js
+  921  ls
+  922  ionic server.js
+  923  clear
+  924  ls
+  925  clear
+  926  ls
+  927  node server.js
+  928  npm install express
+  929  npm audit
+  930  npm audit fix --force
+  931  node server.js
+  932  node -v
+  933  node server.js
+  934  npm install fs
+  935  npm install cors
+  936  clear
+  937  node server.js
+  938  ls
+  939  cd ..
+  940  lls
+  941  ls
+  942  ionic seve
+  943  ionic server.js
+  944  ls
+  945  cd UC-13---Codificar-para-Mobile/
+  946  ls
+  947  cd Codigos/
+  948  ls
+  949  cd controleProduto/
+  950  ls
+  951  ionic serve
+  952  ls
+  953  ionic serve
+  954  ls
+  955  cd ..
+  956  ls
+  957  cd controleProduto/
+  958  ls
+  959  cd backend/
+  960  ls
+  961  clear
+  962  node server.js
+  963  ls
+  964  cd backend/
+  965  ls
+  966  node server.js
+  967  ls
+  968  ionic serve
+  969  ls
+  970  cd backend/
+  971  ls
+  972  node server.js
+  973  ls
+  974  cd backend/
+  975  ls
+  976  node server.js
+  977  ls
+  978  node server.js
+  979  npm install
+  980  sudo su
+  981  mysql -u sabor_senac -p
+  982  ls
+  983  node serverMysql.js
+  984  ls
+  985  node serverMysql.js
+  986  mysql -u root -p
+  987  mysql -u sabor_senac -p
+  988  ls
+  989  node serverMysql.js
+  990  ls
+  991  cd backend/
+  992  ls
+  993  node serverMysql.js
+  994  npm install mysql2
+  995  node serverMysql.js
+  996  npm install mysql2
+  997  node serverMysql.js
+  998  npm init -y
+  999  npm init serverMysql.js
+ 1000  npm install mysql2
+ 1001  node serverMysql.js
+ 1002  history
+ 1003  npm run dev
+ 1004  npm install
+ 1005  npm create vite@latest
+ 1006  ls
+ 1007  npm create vite@latest
+ 1008  ls
+ 1009  cd simuladorBomba/
+ 1010  ls
+ 1011  npm install
+ 1012  cd src/
+ 1013  ls
+ 1014  npm run dev
+ 1015  cd ..
+ 1016  ls
+ 1017  cd ll
+ 1018  cd ..
+ 1019  ls
+ 1020  cd simuladorBomba/
+ 1021  ls
+ 1022  clear
+ 1023  ls
+ 1024  npm install
+ 1025  cd src
+ 1026  ls
+ 1027  npm run dev
+ 1028  cd ..
+ 1029  ls
+ 1030  cd src
+ 1031  ls
+ 1032  cd ..
+ 1033  simulador
+ 1034  cd simuladorBomba/
+ 1035  ls
+ 1036  cd ..
+ 1037  ls
+ 1038  cd backend && npm install express mysql2 cors
+ 1039  cd backend && mudei o banco de dados para mysql
+ 1040  # Move specific files and directories, backing up conflicts
+ 1041  for item in .gitignore README.md eslint.config.js index.html package-lock.json package.json public src vite.config.js; do   if [ -e "simuladorBomba/$item" ]; then     if [ -e "$item" ]; then       ts=$(date +%s);       mv "$item" "${item}.bak.$ts";     fi;     mv "simuladorBomba/$item" .;   fi; done
+ 1042  # Move any remaining files from simuladorBomba (except node_modules) and then remove dir
+ 1043  if [ -d "simuladorBomba" ]; then   shopt -s dotglob;   for g in simuladorBomba/*; do     [ -e "$g" ] || continue;     name=$(basename "$g");     if [ "$name" = "node_modules" ]; then
+ 1044        continue;     fi;     if [ -e "$name" ]; then       ts=$(date +%s);       mv "$name" "${name}.bak.$ts";     fi;     mv "$g" .;   done
+ 1045    if [ -d "simuladorBomba/node_modules" ]; then     mv simuladorBomba/node_modules ./ || true;   fi;   rm -rf simuladorBomba; fi
+ 1046  # Show summary
+ 1047  echo "--- frontend/ contents ---"
+ 1048  ls -la
+ 1049  for item in .gitignore README.md eslint.config.js index.html package-lock.json package.json public src vite.config.js; do   if [ -e "simuladorBomba/$item" ]; then     if [ -e "$item" ]; then       ts=$(date +%s);       mv "$item" "${item}.bak.$ts";     fi;     mv "simuladorBomba/$item" .;   fi; done
+ 1050  if [ -d "simuladorBomba" ]; then   shopt -s dotglob;   for g in simuladorBomba/*; do     [ -e "$g" ] || continue;     name=$(basename "$g");     if [ "$name" = "node_modules" ]; then       continue;     fi;     if [ -e "$name" ]; then       ts=$(date +%s);       mv "$name" "${name}.bak.$ts";     fi;     mv "$g" .;   done;   if [ -d "simuladorBomba/node_modules" ]; then     mv simuladorBomba/node_modules ./ || true;   fi;   rm -rf simuladorBomba; fi
+ 1051  echo "--- frontend/ contents ---"
+ 1052  ls -la
+ 1053  npm run dev
+ 1054  ls
+ 1055  cd backend/
+ 1056  ls
+ 1057  node server.js
+ 1058  ls
+ 1059  cd ..
+ 1060  ls
+ 1061  ionic serve
+ 1062  ls
+ 1063  ionic serve
+ 1064  clear
+ 1065  ls
+ 1066  cd backend/
+ 1067  ls
+ 1068  node server
+ 1069  node server.js
+ 1070  .js
+ 1071  clear
+ 1072  ls
+ 1073  node serverMysql.js
+ 1074  mysql -u sabor_senac -p
+ 1075  ls
+ 1076  cd ..
+ 1077  ionic capacitor add android
+ 1078  run ionic init
+ 1079  ionic init
+ 1080  s
+ 1081  ls
+ 1082  mysql -u sabor_senac -p
+ 1083  shutdown -h now
+ 1084  ls
+ 1085  cd ..
+ 1086  ls
+ 1087  ionic serve
+ 1088  çs
+ 1089  ls
+ 1090  cd backend/
+ 1091  ls
+ 1092  node serverMysql.js
+ 1093  s
+ 1094  clear
+ 1095  ls
+ 1096  cd Código/
+ 1097  ls
+ 1098  cd ecotrash-frontend/
+ 1099  ls
+ 1100  npm install
+ 1101  npm run dev
+ 1102  s
+ 1103  ls
+ 1104  cd Código/
+ 1105  ls
+ 1106  cd ecotrash-frontend/
+ 1107  ls
+ 1108  npm run dev
+ 1109  ls
+ 1110  cd Codigo
+ 1111  ls
+ 1112  cd frontend/
+ 1113  npm run dev
+ 1114  ls
+ 1115  cd Codigo
+ 1116  ls
+ 1117  cd backend/
+ 1118  ls
+ 1119  clear
+ 1120  ls
+ 1121  node server.js
+ 1122  npm install
+ 1123  node server.js
+ 1124  ls
+ 1125  cd Codigo/
+ 1126  ls
+ 1127  cd frontend/
+ 1128  ls
+ 1129  npm install
+ 1130  npm run dev
+ 1131  ls
+ 1132  history
+ 1133  history terminal.txt
+ 1134  history > terminal.txt
