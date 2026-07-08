@@ -19,6 +19,15 @@ const ConsultaViaCep: React.FC<ContainerProps> = () => {
           console.log(data);      
        }); 
     }
+    async function buscarUsuario() {
+      const resposta = await fetch('http://localhost:3000/usuarios/',
+        {headers: {
+          Authorization:"123456"
+        }}
+      );
+      const dados = await resposta.json();
+      console.log(dados);
+    }
   //   useEffect(() => {
   //     fetch(`https://viacep.com.br/ws/${cep}/json/`)
   //       .then(response => response.json())
@@ -48,6 +57,7 @@ const ConsultaViaCep: React.FC<ContainerProps> = () => {
           <p>
             Rua: {rua}
           </p>
+          <button onClick={buscarUsuario}>Buscar Usuário</button>
         </div>
     </div>
   );
