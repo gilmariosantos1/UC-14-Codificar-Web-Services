@@ -1,11 +1,10 @@
 import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar } from '@ionic/react';
 import ExploreContainer from '../components/ExploreContainer';
 import './Home.css';
-import { useEffect, useState } from 'react';
 import ConsultaViaCep from '../components/ConsultaViaCep';
+import Geolocation from '../components/GeoLocation';
 
 const Home: React.FC = () => {
- 
   return (
     <IonPage>
       <IonHeader>
@@ -18,9 +17,10 @@ const Home: React.FC = () => {
           <IonToolbar>
             <IonTitle size="large">Blank</IonTitle>
           </IonToolbar>
-        </IonHeader>        
+        </IonHeader>
+        <ConsultaViaCep />
+        <Geolocation />
       </IonContent>
-      <ConsultaViaCep />
     </IonPage>
   );
 };

@@ -21,9 +21,11 @@ const ConsultaViaCep: React.FC<ContainerProps> = () => {
     }
     async function buscarUsuario() {
       const resposta = await fetch('http://localhost:3000/usuarios/',
-        {headers: {
+        {
+          headers: {
           Authorization:"123456"
-        }}
+        }
+      }
       );
       const dados = await resposta.json();
       console.log(dados);
@@ -45,8 +47,9 @@ const ConsultaViaCep: React.FC<ContainerProps> = () => {
             Consulta CEP:
             <input type="text" value={cepBusca} onChange={(e) => setCep(e.target.value)} placeholder="Digite o CEP" />
             <br />
-            <button className='buttton' onClick={() => {  consultarCep(cepBusca)           
-            }}>Consultar</button>
+            <button className='button' onClick={() => { consultarCep(cepBusca); }}>
+              Consultar
+            </button>
           
           <p>
             Estado: {estado}
